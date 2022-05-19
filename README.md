@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @twwli
 - 👀 I’m interested in Web Dev and UX/UI design.
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Vue 3
 - 💞️ I’m looking to collaborate on Web projects.
 - 📫 You can reach me at hello@olivierguillard.dev
 
