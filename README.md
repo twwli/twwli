@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Olivier
 - 👀 I’m interested in Web Dev and UX/UI design.
-- 🌱 I’m currently learning Vue 3
+- 🌱 I’m currently learning Vue 3 and Svelte.
 - 💞️ I’m looking to collaborate on Web projects.
 - 📫 You can reach me at hello@olivierguillard.dev
 
